@@ -1,2 +1,2 @@
-# Practice
-First repo, practicing
+# test-repo
+This is a test repo
